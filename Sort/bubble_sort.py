@@ -6,6 +6,10 @@ import random
 
 	Bubble Sort
 
+	Time Complexity : O(N^2)
+	Space Complexity : O(N)
+	Stability : O
+
 
 
 
@@ -23,6 +27,13 @@ def bubbleSortVer1(a):
                 a[j] = a[j+1]
                 a[j+1] = temp
 
+
+'''
+
+	Check if the array is sorted whenever looping
+
+
+'''
 
 def bubbleSortVer2(b):
 

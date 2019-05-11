@@ -7,6 +7,10 @@ import random
 	Insertion Sort
 
 
+	Time Complexity : O(N^2)
+	Space Complexity : O(N)
+	Stability : O
+
 
 
 '''
